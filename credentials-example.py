@@ -4,8 +4,8 @@
 # - add the path to your ChromeDriver
 # - run the script with `run.py`
 
-login_url = 'https://mein.frank.de/app/login'
-documents_url = 'https://mein.frank.de/app/c/213519/info/documents'
+login_url = 'https://my.casavi.com/app/login'
+documents_url = 'https://my.casavi.com/app/c/213519/info/documents'
 
 # add your username and password here
 username = 'xxx'
